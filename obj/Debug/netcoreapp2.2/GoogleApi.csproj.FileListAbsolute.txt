@@ -1,0 +1,14 @@
+/Users/mk/Documents/Projects/GoogleApi/obj/Debug/netcoreapp2.2/GoogleApi.csprojAssemblyReference.cache
+/Users/mk/Documents/Projects/GoogleApi/obj/Debug/netcoreapp2.2/GoogleApi.csproj.CoreCompileInputs.cache
+/Users/mk/Documents/Projects/GoogleApi/obj/Debug/netcoreapp2.2/GoogleApi.RazorAssemblyInfo.cache
+/Users/mk/Documents/Projects/GoogleApi/obj/Debug/netcoreapp2.2/GoogleApi.RazorAssemblyInfo.cs
+/Users/mk/Documents/Projects/GoogleApi/obj/Debug/netcoreapp2.2/GoogleApi.AssemblyInfoInputs.cache
+/Users/mk/Documents/Projects/GoogleApi/obj/Debug/netcoreapp2.2/GoogleApi.AssemblyInfo.cs
+/Users/mk/Documents/Projects/GoogleApi/bin/Debug/netcoreapp2.2/GoogleApi.deps.json
+/Users/mk/Documents/Projects/GoogleApi/bin/Debug/netcoreapp2.2/GoogleApi.runtimeconfig.json
+/Users/mk/Documents/Projects/GoogleApi/bin/Debug/netcoreapp2.2/GoogleApi.runtimeconfig.dev.json
+/Users/mk/Documents/Projects/GoogleApi/bin/Debug/netcoreapp2.2/GoogleApi.dll
+/Users/mk/Documents/Projects/GoogleApi/bin/Debug/netcoreapp2.2/GoogleApi.pdb
+/Users/mk/Documents/Projects/GoogleApi/obj/Debug/netcoreapp2.2/GoogleApi.RazorTargetAssemblyInfo.cache
+/Users/mk/Documents/Projects/GoogleApi/obj/Debug/netcoreapp2.2/GoogleApi.dll
+/Users/mk/Documents/Projects/GoogleApi/obj/Debug/netcoreapp2.2/GoogleApi.pdb
